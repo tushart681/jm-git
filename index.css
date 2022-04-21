@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.tush1 {
+    color: orange;
+}
+
+.tush2 {
+    background-color: chocolate;
+    color: aliceblue;
+    border: 10px;
+
+}
+
+section {
+    display: flex;
+}
+
+.rafa1 {
+    width: 50%;
+    padding-right: 2%;
+}
+
+.rafa2 img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 5px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
+}
