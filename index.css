@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -10,12 +11,6 @@ h1 {
     color: orange;
 }
 
-.tush2 {
-    background-color: chocolate;
-    color: aliceblue;
-    border: 10px;
-
-}
 
 section {
     display: flex;
@@ -37,4 +32,9 @@ section {
     border-radius: 5px;
     color: aliceblue;
     font-weight: 700;
+}
+
+.tush2 {
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
 }
