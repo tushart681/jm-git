@@ -57,3 +57,35 @@ h1 {
     color: aliceblue;
     font-weight: 500;
 }
+
+.expriences-item {
+    width: 40%;
+    padding-right: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+}
+
+.expriences-area {
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#border1 {
+    border-left: 7px solid;
+    border-image: linear-gradient(red, yellow);
+    border-image-slice: 1;
+}
+
+#border2 {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
