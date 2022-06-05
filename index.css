@@ -12,8 +12,9 @@ h1 {
 }
 
 
-section {
+.flexible_container {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .rafa1 {
